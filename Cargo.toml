@@ -1,0 +1,10 @@
+[package]
+name = "srf_cat"
+version = "0.1.0-unstable"
+edition = "2021"
+description = "A library for making categories and categorizing using them."
+license = "MIT"
+
+
+[dependencies]
+infograph = "0.3.0-unstable"
